@@ -23,7 +23,7 @@ The workflow receives appointment requests, processes customer information throu
 
 ## Workflow Screenshot
 
-![AI Appointment Booking System Workflow](workflow.png)
+![AI Appointment Booking System Workflow](05-Double-Booking-Workflow.jpg)
 
 ## Workflow
 
